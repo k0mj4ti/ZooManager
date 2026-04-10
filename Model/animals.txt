@@ -1,0 +1,12 @@
+Nala;Afrikai oroszlán;5;132,0;true
+Dumbo;Ázsiai elefánt;12;4200,0;true
+Zara;Zsiráf;8;830,0;false
+Koda;Grizzly medve;6;290,0;false
+Luna;Hóleopárd;4;48,0;true
+Simba;Bengáli tigris;7;180,0;true
+Rio;Arara;3;1,2;true
+Mochi;Óriás panda;9;112,0;true
+Splash;Nagy fehér cápa;11;520,0;false
+Tundra;Sarki róka;2;6,5;false
+Kibo;Gorilla;15;175,0;true
+Petal;Fekete orrszarvú;10;950,0;true
